@@ -100,7 +100,7 @@ export default function Main() {
           type="submit"
           className="bg-blue-600 py-2 text-lg text-white px-3 rounded-md"
         >
-          Get wether
+          Get weather
         </button>
       </form>
       {loading ? (
