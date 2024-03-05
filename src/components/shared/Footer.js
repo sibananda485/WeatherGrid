@@ -19,7 +19,7 @@ export default function Footer() {
           </a>
         </li>
         <li>
-          <a className="hover:text-blue-600" href="">
+          <a className="hover:text-blue-600" href="https://github.com/sibananda485/WeatherGrid">
             SourceCode
           </a>
         </li>
